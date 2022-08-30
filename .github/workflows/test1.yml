@@ -29,7 +29,7 @@ jobs:
           - build_variant: "mt7620"
             targets: "PSG1208"
           - build_variant: "mt7628"
-            targets: "HC5861B 360P2"
+            targets: "360P2"
           - build_variant: "mt7621"
             targets: "K2P_nano"
           - build_variant: "mt7621-usb"
